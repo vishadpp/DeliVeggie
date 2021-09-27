@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"DeliVeggie.Products"}],"uuid":"fe2d3646d1c74635970a7ea4ca24c38f"}
