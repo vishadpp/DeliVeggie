@@ -1,0 +1,7 @@
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp2.1\DeliVeggie.Common.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp2.1\DeliVeggie.Gateway.csprojAssemblyReference.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp2.1\DeliVeggie.Gateway.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp2.1\DeliVeggie.Gateway.AssemblyInfo.cs
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp2.1\DeliVeggie.Gateway.RazorAssemblyInfo.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp2.1\DeliVeggie.Gateway.RazorAssemblyInfo.cs
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp2.1\DeliVeggie.Gateway.RazorTargetAssemblyInfo.cache

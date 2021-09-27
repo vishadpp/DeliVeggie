@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVDCJ3fCkocYtORQ/2lThiLlsu5B/dDWERW1ETBmEKfODc/MGVrtYwLR+RRUOacukIX7EvvlFD5CYfcu2EgC8g==",
+  "success": true,
+  "projectFilePath": "H:\\Vishad\\Allianz\\VS code\\DeliVeggie\\Common\\DeliVeggie.Common\\DeliVeggie.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inspiron\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\inspiron\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

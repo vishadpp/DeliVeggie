@@ -1,0 +1,27 @@
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.deps.json
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.csprojAssemblyReference.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.AssemblyInfo.cs
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.csproj.CoreCompileInputs.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.deps.json
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.csprojAssemblyReference.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.AssemblyInfo.cs
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.csproj.CoreCompileInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.Common\DeliVeggie.Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.deps.json
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\bin\Debug\netstandard2.0\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.csprojAssemblyReference.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.AssemblyInfo.cs
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.csproj.CoreCompileInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Common\DeliVeggie.Common\obj\Debug\netstandard2.0\DeliVeggie.Common.pdb

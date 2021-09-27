@@ -1,0 +1,84 @@
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.exe
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.deps.json
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.runtimeconfig.json
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.runtimeconfig.dev.json
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.pdb
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Common.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csprojAssemblyReference.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.AssemblyInfo.cs
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csproj.CoreCompileInputs.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.MvcApplicationPartsAssemblyInfo.cs
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.MvcApplicationPartsAssemblyInfo.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.RazorTargetAssemblyInfo.cache
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csproj.CopyComplete
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.dll
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.pdb
+H:\Vishad\Allianz\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.genruntimeconfig.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.exe
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.deps.json
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.runtimeconfig.json
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.runtimeconfig.dev.json
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Common.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csprojAssemblyReference.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.AssemblyInfo.cs
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csproj.CoreCompileInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.MvcApplicationPartsAssemblyInfo.cs
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.MvcApplicationPartsAssemblyInfo.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.RazorTargetAssemblyInfo.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csproj.CopyComplete
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\DeliVeggie.API\DeliVeggie.Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.genruntimeconfig.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.exe
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.deps.json
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.runtimeconfig.json
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.runtimeconfig.dev.json
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Gateway.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Common.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\bin\Debug\netcoreapp3.1\DeliVeggie.Common.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csprojAssemblyReference.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.AssemblyInfoInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.AssemblyInfo.cs
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csproj.CoreCompileInputs.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.MvcApplicationPartsAssemblyInfo.cs
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.MvcApplicationPartsAssemblyInfo.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.RazorTargetAssemblyInfo.cache
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.csproj.CopyComplete
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.dll
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.pdb
+H:\Vishad\Allianz\VS code\DeliVeggie\Gateway\DeliVeggie.Gateway\obj\Debug\netcoreapp3.1\DeliVeggie.Gateway.genruntimeconfig.cache
